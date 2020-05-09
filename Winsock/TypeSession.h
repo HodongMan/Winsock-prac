@@ -1,0 +1,2 @@
+
+#define MAX_WORKER_THREAD 10
